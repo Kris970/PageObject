@@ -1,0 +1,6 @@
+com\gLautomation\PageObject_Nymgo\App.class
+nymgo\pages\JoinNowPage.class
+nymgo\pages\MainPage.class
+nymgo\pages\NymgoPage.class
+nymgo\pages\SignInPage.class
+nymgo\framework\DriverManager.class
